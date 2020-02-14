@@ -11,7 +11,7 @@
 # Just type stack exec irregularity-exe and follow the instruction
 
 # e.g    stack exec irregularity-exe 
-#        leave 
+#               leave 
 #        and you will get:    Got it!  PastSimple:   left    PastParticiple:    left 
 
 # I’ll say right away, that not all irregular verbs are here, but only a “small list”, that is, the most frequently used! 
